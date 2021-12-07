@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @genevieve222
 - 👀 I’m interested in creative coding in the audio realm, controllerism
 - 🌱 I’m currently learning ORCA and Gen
-- 💞️ I’m looking to collaborate on ...
 - 📫 genec222@gmail.com
 
 <!---
